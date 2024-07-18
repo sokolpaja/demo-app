@@ -124,7 +124,7 @@
 	}
 	.calculator {
 		background-color: rgb(28, 28, 28);
-		width: 240px;
+		width: 270px;
 		padding: 15px;
 		border-radius: 7px;
 	}

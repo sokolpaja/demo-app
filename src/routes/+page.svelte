@@ -8,6 +8,7 @@
 	<h1>Welcome to SvelteKit, {name}</h1>
 	<p>Visit <a href="/">Home Page</a></p>
 	<p>Visit <a href="/calculator">calculator</a></p>
+	<p>Visit <a href="/global-state">Global State</a></p>
 
 	<hr />
 

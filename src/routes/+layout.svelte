@@ -2,7 +2,7 @@
 	import '../app.css';
 </script>
 
-<header class="flex justify-between px-8 py-4 w-full">
+<header class="flex justify-between px-8 py-4 w-full shadow-sm shadow-white mb-4">
 	<div>Svelte App</div>
 	<nav>
 		<a href="/" class="px-2 py-2.5 hover:bg-stone-200 rounded-md">Home</a>
